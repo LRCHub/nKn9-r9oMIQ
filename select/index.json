@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Wifey",
+  "base_artist": "Eric.B.Jr.",
+  "createdAt": "2026-03-23T19:37:50.784668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wi-Fi Or Wifey",
+      "artist": "Deaton Chris Anthony",
+      "has_synced": true,
+      "path": "select/01_Wi-Fi_Or_Wifey_Deaton_Chris_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Quarantine Wifey (feat. JID)",
+      "artist": "SAINt JHN feat. JID",
+      "has_synced": true,
+      "path": "select/02_Quarantine_Wifey_(feat._JID)_SAINt_JHN_feat._JID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Quarantine Wifey (feat. JID)",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/03_Quarantine_Wifey_(feat._JID)_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wifey Riddim 3",
+      "artist": "AJ Tracey",
+      "has_synced": true,
+      "path": "select/04_Wifey_Riddim_3_AJ_Tracey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wifey",
+      "artist": "Next",
+      "has_synced": false,
+      "path": "select/05_Wifey_Next.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wifey",
+      "artist": "Next",
+      "has_synced": true,
+      "path": "select/06_Wifey_Next.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wifey",
+      "artist": "Next",
+      "has_synced": true,
+      "path": "select/07_Wifey_Next.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Quarantine Wifey (feat. JID)",
+      "artist": "SAINt JHN, JID",
+      "has_synced": true,
+      "path": "select/08_Quarantine_Wifey_(feat._JID)_SAINt_JHN,_JID.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wifey",
+      "artist": "Next",
+      "has_synced": false,
+      "path": "select/09_Wifey_Next.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wifey",
+      "artist": "Qveen Herby",
+      "has_synced": true,
+      "path": "select/10_Wifey_Qveen_Herby.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wifey",
+      "artist": "Qveen Herby",
+      "has_synced": false,
+      "path": "select/11_Wifey_Qveen_Herby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wifey Type",
+      "artist": "V.I.C.",
+      "has_synced": false,
+      "path": "select/12_Wifey_Type_V.I.C..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wifey vs. WiFi / / / P.M.S. (feat. BR3)",
+      "artist": "Ab-Soul feat. BR3",
+      "has_synced": true,
+      "path": "select/13_Wifey_vs._WiFi_______P.M.S._(feat._BR3)_Ab-Soul_feat._BR3.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wifey vs. WiFi / / / P.M.S. (feat. BR3)",
+      "artist": "Ab-Soul",
+      "has_synced": true,
+      "path": "select/14_Wifey_vs._WiFi_______P.M.S._(feat._BR3)_Ab-Soul.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wifey - Club Mix/Dirty Version",
+      "artist": "Next",
+      "has_synced": true,
+      "path": "select/15_Wifey_-_Club_Mix_Dirty_Version_Next.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wifey Material",
+      "artist": "Ace Hood feat. Lloyd",
+      "has_synced": true,
+      "path": "select/16_Wifey_Material_Ace_Hood_feat._Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Quarantine Wifey",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/17_Quarantine_Wifey_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wifey",
+      "artist": "Next",
+      "has_synced": true,
+      "path": "select/18_Wifey_Next.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wifey",
+      "artist": "Eric.B.Jr.",
+      "has_synced": false,
+      "path": "select/pl_01_Wifey_Eric.B.Jr..txt"
+    }
+  ]
+}
